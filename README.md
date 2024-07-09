@@ -2,7 +2,7 @@
 # Structured Generations: Using Hierarchical Clusters to guide Diffusion Models
 
 
-This repository contains the implementation of **CNN-TreeVAE** and **Diffuse-TreeVAE**. 
+This repository contains the implementation of **CNN-TreeVAE** and **Diffuse-TreeVAE** from the [Structured Generations: Using Hierarchical Clusters to guide Diffusion Models](https://arxiv.org/abs/2407.06124) paper by Jorge da Silva Goncalves, Laura Manduchi, Moritz Vandenhirtz, and Julia Vogt.
 
 ---
 
