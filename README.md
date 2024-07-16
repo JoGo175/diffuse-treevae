@@ -131,3 +131,19 @@ The results show that while both models improve image quality, the cluster-condi
 [Manduchi, L., Vandenhirtz, M., Ryser, A., and Vogt, J. Tree Variational Autoencoders. In *Advances in Neural Information Processing Systems*, volume 36, December 2023.](https://neurips.cc/virtual/2023/poster/71188)
 
 [Pandey, K., Mukherjee, A., Rai, P., and Kumar, A. DiffuseVAE: Efficient, Controllable and High-Fidelity Generation from Low-Dimensional Latents. *Transactions on Machine Learning Research*, August 2022. ISSN 2835-8856.](https://arxiv.org/abs/2201.00308)
+
+
+
+# BibTex
+
+```
+@misc{goncalves2024structuredgenerationsusinghierarchical,
+      title={Structured Generations: Using Hierarchical Clusters to guide Diffusion Models}, 
+      author={Jorge da Silva Goncalves and Laura Manduchi and Moritz Vandenhirtz and Julia E. Vogt},
+      year={2024},
+      eprint={2407.06124},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2407.06124}, 
+}
+```
