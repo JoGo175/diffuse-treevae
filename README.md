@@ -1,3 +1,6 @@
+# Disclaimer
+
+**This repository is obsolete. Please refer to the updated and renamed version of the model: [TreeDiffusion](https://github.com/JoGo175/TreeDiffusion).**
 
 # Structured Generations: Using Hierarchical Clusters to guide Diffusion Models
 
